@@ -3,7 +3,7 @@ import os
 
 # Application Info
 APP_NAME = "My File Chat"
-APP_HEADER = "💬 My chat GPT"
+APP_HEADER = "💬 My File Chat"
 APP_HEADER_CAPTION = (
     "🚀 This chatbot is created using the open-source Llama 2 LLM model from Meta."
 )

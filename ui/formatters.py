@@ -45,6 +45,7 @@ class UIFormatters:
                 border-radius: 15px;
                 float: left;
                 margin-top: 15px;
+                margin-bottom: 15px;
                 box-shadow: 2px 2px 12px rgba(0,0,0,0.3);
                 display: flex;
                 align-items: start;
@@ -53,17 +54,6 @@ class UIFormatters:
             ">
                 <span style='margin-right: 8px; color:#9bffbb; font-weight:bold;'>🤖</span>
                 <label style='text-align: justify; line-height: 1.5;'>A: {answer}</label>
-                <span style="
-                    content: '';
-                    position: absolute;
-                    bottom: -10px;
-                    left: 15px;
-                    width: 0;
-                    height: 0;
-                    border-left: 10px solid transparent;
-                    border-right: 10px solid transparent;
-                    border-top: 10px solid #2c2f3a;
-                "></span>
             </div>
             """,
             unsafe_allow_html=True,
