@@ -1,0 +1,19 @@
+PyPDF2
+python-dotenv
+streamlit
+faiss-cpu
+streamlit-extras
+SpeechRecognition
+scikit-learn
+moviepy
+pymongo
+pytesseract
+openai
+pydub
+transformers
+tiktoken
+
+# ---- LangChain (PINNED & COMPATIBLE) ----
+langchain==0.1.20
+langchain-community==0.0.38
+langchain-openai==0.1.7
