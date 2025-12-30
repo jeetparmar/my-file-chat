@@ -25,10 +25,10 @@
 <div align="center">
     <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 20px 0;">
         <div>
-            <img src="./Documentation/img/screen1.png" alt="Screen 1" style="width: 100%; border-radius: 8px;    box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+            <img src="./documentation/img/screen1.png" alt="Screen 1" style="width: 100%; border-radius: 8px;    box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
         </div>
         <div>
-            <img src="./Documentation/img/screen2.png" alt="Screen 2" style="width: 100%; border-radius: 8px;    box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+            <img src="./documentation/img/screen2.png" alt="Screen 2" style="width: 100%; border-radius: 8px;    box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
         </div>
     </div>
 </div>
